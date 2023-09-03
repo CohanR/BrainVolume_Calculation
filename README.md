@@ -3,7 +3,7 @@
 # Outputs
 ![Brain Volume Grey Matter Visualisation](BrainVol_grey_matter_vis_RC.png)
 
-![Brain Volume Result Output](images/BrainVol_result_output.png)
+![Brain Volume Result Output](BrainVol_result_output.png)
 
 
 
