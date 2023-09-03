@@ -7,7 +7,7 @@
 
 
 
-This code offers an end-to-end solution for computing and visualizing the volumes of different brain tissues, specifically grey matter (c1), white matter (c2), and cerebrospinal fluid (CSF, c3). It fetches pre-segmented anatomical images, calculates volumes, and showcases interactive visualisations. Note that I wrote it for Gannet Toolbox segmentation outpu. Gannet is a tool to analyse magnetioc resonance spectroscopy data. you can find more info here: https://markmikkelsen.github.io/Gannet-docs/index.html
+This code offers an end-to-end solution for computing and visualizing the volumes of different brain tissues, specifically grey matter (c1), white matter (c2), and cerebrospinal fluid (CSF, c3). It fetches pre-segmented anatomical images, calculates volumes, and showcases interactive visualisations. Note that I wrote it for Gannet Toolbox segmentation outputs. Gannet is a tool to analyse magnetic resonance spectroscopy data. you can find more info here: https://markmikkelsen.github.io/Gannet-docs/index.html
 
 
 ## Dependencies
